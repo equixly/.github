@@ -116,7 +116,11 @@ And if this sounds like the work you want to be doing, [we're hiring](https://eq
 <br clear="all" />
 </br>
 
-<img width="2400" height="334" alt="footer" src="https://github.com/user-attachments/assets/650dc80f-f6fb-40b6-9edd-513fe0c5e920" />
+---
+
+Built by Security experts, for Security experts. Powered by AI. Trusted by teams.
+</br></br>
+<img width="120" alt="logo" src="https://github.com/user-attachments/assets/19c952ee-67ac-497a-8a65-06a338be2e6b" />
 
 <br>
 
