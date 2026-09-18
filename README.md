@@ -78,6 +78,7 @@ Under the hood, we have specialized models we fine-tune for complex tasks, such 
 
 <img align="left" width="280" alt="Offensive security research and writing" src="https://github.com/user-attachments/assets/a87af2f8-538b-4267-90e7-0982f4c69bd2" />
 
+</br></br>
 
 Most of our research goes on the [blog](https://equixly.com/blog/), with datasheets, guides, and customer use cases in the [resource center](https://equixly.com/resources/). If a term here is new to you, start with the [glossary](https://equixly.com/glossary/).
 
@@ -87,7 +88,6 @@ Most of our research goes on the [blog](https://equixly.com/blog/), with datashe
 ## Questions we get asked
 
 <img align="right" width="280" alt="Questions we get asked" src="https://github.com/user-attachments/assets/ed72618e-0404-417b-9b82-c4624fe58edc" />
-
 
 - **Is Equixly open source?** </br>
 The platform is closed. This organization is where we publish exploit proofs of concept, agent skills, tooling, and the research behind our write-ups.
@@ -108,7 +108,7 @@ Yes. The [Equixly MCP Server](https://equixly.com/blog/2026/06/15/equixly-mcp-in
 
 <img align="left" width="280" alt="Get in touch" src="https://github.com/user-attachments/assets/6bdfec3d-e923-44de-872f-30b93a27a05e" />
 
-
+</br></br>
 Questions, feedback, or a technique you think we should look at? [Drop us a line](https://equixly.com/contact-us/), and find us on [LinkedIn](https://www.linkedin.com/company/equixly), [X](https://x.com/equixly), and [YouTube](https://www.youtube.com/@Equixly-APISecurity).
 
 And if this sounds like the work you want to be doing, [we're hiring](https://equixly.com/about-us/#careers).
@@ -116,5 +116,7 @@ And if this sounds like the work you want to be doing, [we're hiring](https://eq
 <br clear="all" />
 </br>
 
-**Built by Security experts, for Security experts. Powered by AI. Trusted by teams.**  
-**— Equixly**
+<img width="2400" height="334" alt="footer" src="https://github.com/user-attachments/assets/650dc80f-f6fb-40b6-9edd-513fe0c5e920" />
+
+<br>
+
