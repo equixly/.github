@@ -5,7 +5,7 @@
   <a href="https://equixly.com/">Website</a> &nbsp; · &nbsp;
   <a href="https://equixly.com/about-us/#careers">Careers</a> &nbsp; · &nbsp;
   <a href="https://equixly.com/blog/">Security Articles</a> &nbsp; · &nbsp;
-  <a href="https://equixly.com/training/">Training</a> &nbsp; · &nbsp;
+  <a href="https://training.equixly.com">Training</a> &nbsp; · &nbsp;
   <a href="https://equixly.com/resources/">Use cases & guides</a>
 </p>
 
